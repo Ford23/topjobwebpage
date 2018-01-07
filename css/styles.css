@@ -1,0 +1,14 @@
+#hero {
+    width: 100%;
+    background-color: aquamarine;
+    height: 100vh;
+}
+
+.hero-content {
+    height: 100%;
+}
+
+.hand-box, .hero-text {
+    height: 100%;
+    border: 1px solid black;    
+}
