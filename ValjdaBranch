@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>TopJob</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+    <div id="hero">
+        <div class="row hero-content">
+            <div class="col hand-box">
+
+            </div>
+            <div class="col hero-text">
+
+            </div>
+        </div>
+    </div>
+    <div id="contact">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-6">
+
+                    <!--Lijeva strana -->
+
+                    <div class="contacts">
+                        <p><span>CONTACT</span></p>
+                        <p>Enter name</p>
+                        <input></input>
+                        <p>Enter e-mail</p>
+                        <input></input>
+                        <p>Enter your message</p>
+                        <input></input>
+
+                        <button type="submit">SUBMIT</button>
+                    </div>
+                </div>
+
+                <div class="col-6">
+
+                    <!-- Desna strana -->
+
+                <div class="detail">
+                    <div class="info">
+                    <p>ADRESA: Kobilja Glava 22, 71 000 Sarajevo</p>
+                    <p>TELEFON: +387 62 087 006</p>
+                    <p>E-mail: superdom2018@gmail.com</p>
+                </div>
+                    <img src="grid_0000s_0000s_0001_Layer-12.png"/>
+                </div>
+                </div>
+        </div>
+    </div>
+    <script src="js/bootstrap.js"></script>
+</body>
+
+</html>
